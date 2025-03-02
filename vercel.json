@@ -13,10 +13,5 @@
             "src": "/(.*)",
             "dest": "lib/index.js"
         }
-    ],
-    "functions": {
-        "api/index.js": {
-            "runtime": "@vercel/node"
-        }
-    }
+    ]
 }
